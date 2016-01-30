@@ -29,3 +29,16 @@ body {
 h1{
 	color: #22313F;
 }
+
+.feed-block{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.feed-block p.right{
+	color: #00B16A;
+}
+
+.feed-block p.wrong{
+	color: #E74C3C;
+}
